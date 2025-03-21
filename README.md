@@ -1,4 +1,4 @@
-# PROJECT2
+
 # Time Series Forecasting of IT Load and Solar Generation
 
 This project focuses on analyzing and forecasting the IT load and solar power generation data over time using ARIMA (AutoRegressive Integrated Moving Average) models. The dataset includes hourly data for IT load and solar generation, and the goal is to predict future values based on historical trends.
